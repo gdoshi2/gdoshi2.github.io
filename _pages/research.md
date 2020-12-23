@@ -21,7 +21,8 @@ Electricity Market Structure and Technology Adoption <br/> (_with [Sarah Johnsto
 Does Transmission Expansion lead to over investment in Wind Energy? Evidence from Texas <br/> (_with [Yeonju Baik](https://econ.wisc.edu/staff/baik-yeon-ju/)_)
 <br/>
 
- # **Book Chapters** <br/>
+ Book Chapters
+ ----
  
  Mathur S.K., Singh S., Doshi G., Srivastava A. (2017). [Trade Growth Accounting in Goods and Services: An Empirical Exercise](https://doi.org/10.1007/978-981-10-1759-9_5). In: Mathur S., Arora R., Singh S. (eds) Theorizing International Trade. Palgrave Macmillan, Singapore. <br/>
 [[PDF](/files/Trade_Costs_Paper.pdf){:target="_blank"}] [[Published Version](https://doi.org/10.1007/978-981-10-1759-9_5){:target="_blank"}] <br/>
