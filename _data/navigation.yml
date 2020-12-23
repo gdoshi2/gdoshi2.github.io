@@ -7,7 +7,7 @@ main:
     url: /research/
 
   - title: "CV"
-    url: /cv/    
+    url: https://gdoshi2.github.io/files/CV.pdf    
 
   - title: "Misc"
     url: /misc/    
