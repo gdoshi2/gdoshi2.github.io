@@ -11,5 +11,5 @@ On a non-pandemic weekday, you can find me at: <br/>
     427 Lorch Street <br/>
     Madison, WI 53706 <br/>
 
-E-mail: gdoshi2_at_wisc_dot_edu
+e-mail: gdoshi2_at_wisc_dot_edu
 
