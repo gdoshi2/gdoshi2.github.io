@@ -10,8 +10,12 @@ redirect_from:
 
 Hi! I'm Gaurav Doshi. I'm a PhD student at the Department of [Agricultural & Applied Economics](https://aae.wisc.edu/) at the University of Wisconsin-Madison. My research interests are in Energy and Environmental Economics and Industrial Organization. My CV is [here](http://gdoshi.github.io/files/CV.pdf).
 
-In my research, I study the market impacts of large scale electricity transmission expansions in the US. I am also interested in studying how energy policy and market deregulation affects innovation within the solar and wind industries. 
+In my research, I study the market impacts of electricity grid integration in the US. I analyze the implications of electricity market integration on strategic responses by fossil fuel generators as well as long term effect on electricity generation from renewable sources. I am also interested in studying how energy policy and market deregulation affects innovation within the solar and wind industries. 
 
 Before moving to the US for a PhD, I completed my undergrad in Economics from the [Department of Economic Sciences](https://www.iitk.ac.in/eco/) at the [Indian Institute of Technology Kanpur](https://www.iitk.ac.in/), India in 2017. 
 
 If you're interested in talking about my work, or yours, please feel free to [connect](mailto:gdoshi2@wisc.edu)!
+
+Selected Research Topics
+----
+
