@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Gaurav Doshi"
+#title: "Gaurav Doshi"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
