@@ -10,7 +10,7 @@ Peer-Reviewed Publications
 
 Doshi, G. & Du, X. (2021). 
 
-[Transmission Integration and the Market for Congestion Revenue Rights](https://doi.org/10.5547/01956574.42.5.gdos)
+[Transmission Integration and the Market for Congestion Revenue Rights](https://doi.org/10.5547/01956574.42.5.gdos) <br/>
 Gaurav Doshi and [Sheldon (Xiaodong) Du](https://aae.wisc.edu/faculty/xdu23/) <br/>
 The Energy Journal 42(5), 247-281 (2021) <br/>
 [[WP Version](/files/DoshiDu_EJ_revised_wAppendix.pdf){:target="_blank"}] [[Published Version](https://doi.org/10.5547/01956574.42.5.gdos){:target="_blank"}] <br/>
@@ -31,7 +31,7 @@ Does Transmission Expansion lead to over investment in Wind Energy? Evidence fro
 Book Chapters
 ----
  
-[Trade Growth Accounting in Goods and Services: An Empirical Exercise](https://doi.org/10.1007/978-981-10-1759-9_5)
+[Trade Growth Accounting in Goods and Services: An Empirical Exercise](https://doi.org/10.1007/978-981-10-1759-9_5) <br/>
 Somesh K. Mathur, Sarabjit Singh, Gaurav Doshi, Abhishek Srivastava <br/>
 In: Mathur S., Arora R., Singh S. (eds) Theorizing International Trade. Palgrave Macmillan, Singapore (2017) <br/>
 [[PDF](/files/Trade_Costs_Paper.pdf){:target="_blank"}] [[Published Version](https://doi.org/10.1007/978-981-10-1759-9_5){:target="_blank"}] <br/>
