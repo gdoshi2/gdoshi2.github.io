@@ -8,8 +8,6 @@ author_profile: true
 Peer-Reviewed Publications
 ----
 
-Doshi, G. & Du, X. (2021). 
-
 [Transmission Integration and the Market for Congestion Revenue Rights](https://doi.org/10.5547/01956574.42.5.gdos) <br/>
 Gaurav Doshi and [Sheldon (Xiaodong) Du](https://aae.wisc.edu/faculty/xdu23/) <br/>
 The Energy Journal 42(5), 247-281 (2021) <br/>
