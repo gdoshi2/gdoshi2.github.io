@@ -16,7 +16,7 @@ If you're interested in talking about my work, or yours, please feel free to [co
 
 Selected Research Topics
 ----
-<img align="right" width="320" height="320" src="images/crez_cities.pdf">  <br/> <br/>
+<img align="right" width="320" height="320" src="images/new_models_advancements.PNG">  <br/> <br/>
 Market Impacts of Transmission Expansion: What is the effect on markups set by fossil fuel generators? What are the long-run effects on entry of new wind projects and carbon emissions? <br/>
 <br/><br/><br/><br/>
 
