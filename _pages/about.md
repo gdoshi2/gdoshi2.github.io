@@ -20,8 +20,9 @@ Selected Research Topics
 Market Impacts of Transmission Expansion: What is the effect on markups set by fossil fuel generators? What are the long-run effects on entry of new wind projects and carbon emissions? <br/>
 <br/><br/><br/><br/>
 
+<img align="right" width="320" height="300" src="images/overall_curtailment.png">  <br/> <br/>
 "Over-investment" in Wind Energy: Does availability of excess electricity transmission incentivize developers to over-invest in wind generation capacity? What are the social welfare implications? <br/>
-
 <br/> <br/> <br/> <br/>
-<img align="right" width="320" height="320" src="images/new_models_advancements.png">  <br/> <br/> <br/> <br/>
+
+<img align="right" width="320" height="320" src="images/new_models_advancements.png">  <br/> <br/>
 Competiton and Innovation: Does electricity market structure affect innovation in wind and solar industries? How does energy policy interact with geographical heterogeneity in technology adoption in wind and solar projects? <br/> <br/>
