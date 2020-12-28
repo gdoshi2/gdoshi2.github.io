@@ -16,8 +16,9 @@ If you're interested in talking about my work, or yours, please feel free to [co
 
 Selected Research Topics
 ----
-Market Impacts of Transmission Expansion: What is the effect on markups set by fossil fuel generators? What are the long-run effects on entry of new wind projects and carbon emissions?
-<br/>
+<img align="right" width="320" height="320" src="images/crez_cities.pdf">  <br/> <br/>
+Market Impacts of Transmission Expansion: What is the effect on markups set by fossil fuel generators? What are the long-run effects on entry of new wind projects and carbon emissions? <br/>
+<br/><br/><br/><br/>
 
 "Over-investment" in Wind Energy: Does availability of excess electricity transmission incentivize developers to over-invest in wind generation capacity? What are the social welfare implications? <br/>
 
