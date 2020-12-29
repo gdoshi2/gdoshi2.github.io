@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Gaurav Doshi. I'm a PhD student at the Department of [Agricultural & Applied Economics](https://aae.wisc.edu/) at the [University of Wisconsin-Madison](https://www.wisc.edu/). Before moving to the US for PhD, I completed my undergrad in Economics from the [Department of Economic Sciences](https://www.iitk.ac.in/eco/) at the [Indian Institute of Technology Kanpur](https://www.iitk.ac.in/), India in 2017. My CV is [here](http://gdoshi2.github.io/files/CV.pdf).
+Hi! I'm Gaurav Doshi. I'm a PhD student at the Department of [Agricultural & Applied Economics](https://aae.wisc.edu/) at the [University of Wisconsin-Madison](https://www.wisc.edu/). Before moving to the US for my PhD, I completed my undergrad in Economics from the [Department of Economic Sciences](https://www.iitk.ac.in/eco/) at the [Indian Institute of Technology Kanpur](https://www.iitk.ac.in/), India in 2017. My CV is [here](http://gdoshi2.github.io/files/CV.pdf).
 
 My research interests are in Energy and Environmental Economics and Industrial Organization. In my current work, I study the market impacts of electricity grid integration in the US. I analyze the short-run effect of transmission expansion on electricity pricing behavior of fossil fuel generators as well as long-run effect on electricity generation from renewable sources. I am also interested in studying how energy policy and market deregulation affects innovation within the solar and wind industries. 
 
@@ -24,5 +24,5 @@ Market Impacts of Transmission Expansion: What is the effect on markups set by f
 "Over-investment" in Wind Energy: Does availability of excess electricity transmission incentivize developers to over-invest in wind generation capacity? What are the social welfare implications? <br/>
 <br/> <br/> <br/> <br/>
 
-<img align="right" width="320" height="320" src="images/new_models_advancements.png">  <br/> <br/>
+<img align="right" width="320" height="320" src="images/new_models_advancements.png">  <br/> <br/> <br/>
 Competiton and Innovation: Does electricity market structure affect innovation in wind and solar industries? How does energy policy interact with geographical heterogeneity in technology adoption in wind and solar projects? <br/> <br/>
