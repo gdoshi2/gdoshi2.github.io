@@ -17,12 +17,10 @@ If you're interested in talking about my work, or yours, please feel free to [co
 Selected Research Topics
 ----
 <img align="right" width="320" height="320" src="images/new_projects.gif">  <br/> <br/>
-
 Market Impacts of Transmission Expansion: What is the effect on markups set by fossil fuel generators? What are the long-run effects on entry of new wind projects and carbon emissions? <br/>
 <br/><br/><br/><br/>
 
-<img align="right" width="320" height="320" src="images/overall_curtailment.png">  <br/> <br/>
-
+<img align="right" width="320" height="320" src="images/wind_curtailment.gif">  <br/> <br/>
 "Over-investment" in Wind Energy: Does availability of excess electricity transmission incentivize developers to over-invest in wind generation capacity? What are the social welfare implications? <br/>
 <br/> <br/> <br/> <br/>
 
