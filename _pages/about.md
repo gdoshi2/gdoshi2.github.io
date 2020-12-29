@@ -21,7 +21,7 @@ Market Impacts of Transmission Expansion: What is the effect on markups set by f
 <br/><br/><br/><br/>
 
 <img align="right" width="400" height="450" src="images/wind_curtailment.gif">  <br/> <br/>
-"Over-investment" in Wind Energy: Does availability of excess electricity transmission incentivize developers to over-invest in wind generation capacity? What are the social welfare implications? <br/>
+"Over-investment" in Wind Energy: Does availability of excess electricity transmission incentivize developers to over-invest in wind generation capacity? What are the social welfare implications? 
 <br/> <br/> <br/> <br/>
 
 <img align="right" width="320" height="320" src="images/new_models_advancements.png">  <br/>
