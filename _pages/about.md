@@ -25,5 +25,4 @@ Market Impacts of Transmission Expansion: What is the effect on markups set by f
 <br/> <br/> <br/> <br/>
 
 <img align="right" width="320" height="320" src="images/new_models_advancements.png">  <br/> <br/>
-
 Competiton and Innovation: Does electricity market structure affect innovation in wind and solar industries? How does energy policy interact with geographical heterogeneity in technology adoption in wind and solar projects? <br/> <br/>
