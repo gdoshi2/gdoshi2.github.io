@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Gaurav Doshi. I'm a PhD student at the Department of [Agricultural & Applied Economics](https://aae.wisc.edu/) at the [University of Wisconsin-Madison](https://www.wisc.edu/). Before moving to the US for my PhD, I completed my undergrad in Economics from the [Department of Economic Sciences](https://www.iitk.ac.in/eco/) at the [Indian Institute of Technology Kanpur](https://www.iitk.ac.in/), India in 2017. My CV is [here](http://gdoshi2.github.io/files/CV.pdf).
+Hi! I'm Gaurav Doshi. I'm a PhD student at the Department of [Agricultural & Applied Economics](https://aae.wisc.edu/) at the [University of Wisconsin-Madison](https://www.wisc.edu/). Before moving to the US for my PhD, I completed my undergrad in Economics from the Department of Economic Sciences at the [Indian Institute of Technology Kanpur](https://www.iitk.ac.in/), India in 2017. My CV is [here](http://gdoshi2.github.io/files/CV.pdf).
 
 My research interests are in Energy and Environmental Economics and Industrial Organization. I am interested in energy markets, strategic interactions within these markets, their policy and welfare implications. In my current work, I study the market impacts of electricity grid integration in the US. I analyze the short-run effect of grid expansion on pricing behavior of fossil fuel firms as well as long-run effects on entry and exit of firms. I am also studying how energy policy and market deregulation affects innovation within the solar and wind industries. 
 
@@ -17,7 +17,7 @@ If you're interested in talking about my work, or yours, please feel free to [co
 Selected Research Topics
 ----
 <img align="right" width="320" height="320" src="images/new_projects.gif">  <br/> <br/>
-Market Impacts of Transmission Expansion: What is the effect on markups set by fossil fuel generators? What are the long-run effects on entry of new wind projects and carbon emissions? <br/>
+Short- and Long-Run Impact of Electricity Grid Expansion (**JMP**): What is the effect on markups set by fossil fuel generators? What are the long-run effects on entry of new wind projects and exit of fossil fuel generators? <br/>
 <br/><br/><br/><br/>
 
 <img align="right" width="400" height="450" src="images/wind_curtailment.gif">  <br/> <br/>
