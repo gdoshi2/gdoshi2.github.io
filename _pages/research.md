@@ -19,7 +19,7 @@ Texas electricity market saw a recent integration of electricity transmission as
 Work in Progress
 ----
 
-Strategic and Environmental Effects of Electricity Transmission Expansion (JMP)
+Short- and Long-Run Effects of Electricity Grid Expansion (**JMP**)
 
 Electricity Market Structure and Technology Adoption <br/> (_with [Sarah Johnston](https://www.sarahbjohnston.com/)_)
 
