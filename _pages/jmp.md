@@ -5,7 +5,7 @@ permalink: /jmp/
 author_profile: true
 ---
 
-In my Job Market Paper, I study the short- and long-run impacts of electricity grid expansion. Below is the abstract and some figures!
+In my Job Market Paper, I study the short- and long-run impacts of electricity grid expansion. Below is the abstract!
 
 **Wiring America: The Short- and Long-Run Effects of Electricity Grid Expansion**
 ----
