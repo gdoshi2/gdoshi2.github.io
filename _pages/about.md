@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Gaurav Doshi. I'm a PhD student at the Department of [Agricultural & Applied Economics](https://aae.wisc.edu/) at the [University of Wisconsin-Madison](https://www.wisc.edu/). Before moving to the US for my PhD, I completed my undergrad in Economics from the Department of Economic Sciences at the [Indian Institute of Technology Kanpur](https://www.iitk.ac.in/), India in 2017. My CV is [here](http://gdoshi2.github.io/files/CV.pdf).
+Hi! I'm Gaurav Doshi. I'm a PhD student at the Department of [Agricultural & Applied Economics](https://aae.wisc.edu/) at the [University of Wisconsin-Madison](https://www.wisc.edu/). My CV is [here](http://gdoshi2.github.io/files/CV.pdf).
 
-My research interests are in Energy and Environmental Economics and Industrial Organization. I am interested in energy markets, strategic interactions within these markets, their policy and welfare implications. In my current work, I examine the market impacts of electricity grid integration in the US. I analyze the short-run effect of grid expansion on pricing behavior of fossil fuel firms as well as long-run effects on entry and exit of firms. I am also studying how energy policy and market deregulation affects innovation within the solar and wind industries. 
+My research interests are in Energy and Environmental Economics and Industrial Organization. I am interested in energy markets, strategic interactions within these markets, their policy and welfare implications. In my current work, I examine the market and non-market impacts of electricity grid integration in the US. I am also studying how market deregulation and long term contracting affects innovation within the solar and wind industries. In my work, I use economic theory and state of the art econometric methods to answer questions that have potential implications for climate change.  
 
-If you're interested in talking about my work, or yours, please feel free to [connect](mailto:gdoshi2@wisc.edu)!
+In my job market paper, I analyze the short- and long-run effects of electricity grid expansion in the US. For the short-run, I focus on the pricing behavior and emissions from fossil fuel generators. For the long-run, I examine how grid expansion drives the investment in wind energy. 
+
+Before moving to the US for my PhD, I completed my undergrad in Economics from the Department of Economic Sciences at the [Indian Institute of Technology Kanpur](https://www.iitk.ac.in/), India in 2017. If you're interested in talking about my work, or yours, please feel free to [connect](mailto:gdoshi2@wisc.edu)!
 
 Selected Research Topics
 ----
