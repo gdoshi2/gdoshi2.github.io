@@ -4,8 +4,7 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-
-On a non-pandemic weekday, you can find me at: <br/>
+Mailing address:
     AAE, University of Wisconsin-Madison <br/>
     221 Taylor Hall <br/>
     427 Lorch Street <br/>
