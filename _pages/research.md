@@ -5,6 +5,16 @@ permalink: /research/
 author_profile: true
 ---
 
+Work in Progress
+----
+
+Wiring America: The Short- and Long-Run Effects of Electricity Grid Expansion (**JMP**)
+
+Electricity Market Structure and Technology Adoption: Evidence from Renewable Energy <br/> (_with [Sarah Johnston](https://www.sarahbjohnston.com/)_)
+
+Does Transmission Expansion lead to over investment in Wind Energy? Evidence from Texas <br/> (_with [Yeonju Baik](https://econ.wisc.edu/staff/baik-yeon-ju/)_)
+<br/>
+
 Peer-Reviewed Publications
 ----
 
@@ -15,16 +25,6 @@ The Energy Journal 42(5), 247-281 (2021) <br/>
 <details><summary>Abstract</summary>
 Texas electricity market saw a recent integration of electricity transmission as a part of Competitive Renewable Energy Zones (CREZ). Exploiting the commissioning date of CREZ based transmission integration as an exogenous shock, we analyze the effect of transmission expansion on market clearing prices of Congestion Revenue Rights (CRR). Reduced form estimates suggest that excess transmission led to a lowering of CRR prices for contracts at all Times of Use. We find strong evidence of spatial, distributional, and firm specific heterogeneity. The paper shows that transmission expansion enhanced efficiency of the CRR market in terms of a spatial convergence in prices and a decrease in aggregate auction expenditure of approximately $260 million over a period of 4.5 years post CREZ.
  </details> 
-
-Work in Progress
-----
-
-Short- and Long-Run Effects of Electricity Grid Expansion (**JMP**)
-
-Electricity Market Structure and Technology Adoption <br/> (_with [Sarah Johnston](https://www.sarahbjohnston.com/)_)
-
-Does Transmission Expansion lead to over investment in Wind Energy? Evidence from Texas <br/> (_with [Yeonju Baik](https://econ.wisc.edu/staff/baik-yeon-ju/)_)
-<br/>
 
 Book Chapters
 ----
