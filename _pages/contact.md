@@ -4,7 +4,7 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Mailing address:
+Mailing address: <br/>
     AAE, University of Wisconsin-Madison <br/>
     221 Taylor Hall <br/>
     427 Lorch Street <br/>
