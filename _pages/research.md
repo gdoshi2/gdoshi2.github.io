@@ -8,7 +8,7 @@ author_profile: true
 Work in Progress
 ----
 
-Wiring America: The Short- and Long-Run Effects of Electricity Grid Expansion
+Wiring America: The Short- and Long-Run Effects of Electricity Grid Expansion <br/>
 [[Job Market Paper](/files/JMP_Draft_GD.pdf){:target="_blank"}] [[Slides (15/20 minutes)](/files/EMEE_2021.pdf){:target="_blank"}] <br/>
 
 <details><summary>Abstract</summary>
