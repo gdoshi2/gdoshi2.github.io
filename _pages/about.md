@@ -19,12 +19,12 @@ Before moving to the US for my PhD, I completed my undergrad in Economics from t
 Selected Research Topics
 ----
 <img align="right" width="320" height="320" src="images/new_projects.gif">  <br/> <br/>
-Short- and Long-Run Impact of Electricity Grid Expansion (**JMP**): What is the effect on markups set by fossil fuel generators? What are the long-run effects on entry of new wind projects and exit of fossil fuel generators? <br/>
+Short- and Long-Run Impact of Electricity Grid Expansion (**JMP**): What is the effect on markups and emissions by fossil fuel generators? What are the long-run effects on investment in wind energy? <br/>
 <br/><br/><br/><br/>
+
+<img align="right" width="320" height="320" src="images/new_models_advancements.png">  <br/>
+Competiton and Innovation: Does electricity market structure affect innovation in wind and solar industries? What are the other drivers of technology adoption in wind and solar projects? <br/> <br/>
 
 <img align="right" width="400" height="450" src="images/wind_curtailment.gif">  <br/> <br/>
 "Over-investment" in Wind Energy: Does availability of excess electricity transmission incentivize developers to over-invest in wind generation capacity? What are the social welfare implications? 
 <br/> <br/> <br/> <br/>
-
-<img align="right" width="320" height="320" src="images/new_models_advancements.png">  <br/>
-Competiton and Innovation: Does electricity market structure affect innovation in wind and solar industries? What are the other drivers of technology adoption in wind and solar projects? <br/> <br/>
