@@ -23,7 +23,8 @@ Short- and Long-Run Impact of Electricity Grid Expansion (**JMP**): What is the 
 <br/><br/><br/><br/>
 
 <img align="right" width="320" height="320" src="images/new_models_advancements.png">  <br/>
-Competiton and Innovation: Does electricity market structure affect innovation in wind and solar industries? What are the other drivers of technology adoption in wind and solar projects? <br/> <br/>
+Competiton and Innovation: How does electricity market structure affect innovation in wind and solar industries? Does long term power purchase agreements promote technology adoption in the renewable sector? <br/> <br/>
+<br/><br/><br/><br/>
 
 <img align="right" width="400" height="450" src="images/wind_curtailment.gif">  <br/> <br/>
 "Over-investment" in Wind Energy: Does availability of excess electricity transmission incentivize developers to over-invest in wind generation capacity? What are the social welfare implications? 
